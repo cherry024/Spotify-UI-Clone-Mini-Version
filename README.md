@@ -65,7 +65,8 @@ cd spotify-ui-clone
 
 ## 📸 Preview
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/cherry024/spotify-ui-clone/main/assets/screenshot.png)
+
 
 ---
 
